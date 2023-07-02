@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "bungcip.better-toml",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "aaron-bond.better-comments"
+    ]
+}
